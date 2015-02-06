@@ -1,0 +1,642 @@
+{"frames": [
+
+{
+	"filename": "Symbol_Chef_1_Intro_00.png",
+	"frame": {"x":30,"y":129,"w":63,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":17,"w":63,"h":71},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_01.png",
+	"frame": {"x":124,"y":30,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":16,"w":64,"h":70},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_02.png",
+	"frame": {"x":30,"y":30,"w":64,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":15,"w":64,"h":69},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_03.png",
+	"frame": {"x":730,"y":230,"w":66,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":13,"w":66,"h":71},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_04.png",
+	"frame": {"x":130,"y":530,"w":68,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":13,"w":68,"h":74},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_05.png",
+	"frame": {"x":127,"y":634,"w":71,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":15,"w":71,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_06.png",
+	"frame": {"x":530,"y":745,"w":72,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":16,"w":72,"h":79},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_07.png",
+	"frame": {"x":430,"y":854,"w":71,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":16,"w":71,"h":82},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_08.png",
+	"frame": {"x":631,"y":907,"w":72,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":16,"w":72,"h":84},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_09.png",
+	"frame": {"x":531,"y":854,"w":70,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":14,"w":70,"h":87},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_10.png",
+	"frame": {"x":728,"y":679,"w":67,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":12,"w":67,"h":89},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_11.png",
+	"frame": {"x":730,"y":560,"w":64,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":10,"w":64,"h":89},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_12.png",
+	"frame": {"x":730,"y":442,"w":64,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":9,"w":64,"h":88},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_13.png",
+	"frame": {"x":730,"y":331,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":9,"w":65,"h":81},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_14.png",
+	"frame": {"x":30,"y":630,"w":67,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":9,"w":67,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_15.png",
+	"frame": {"x":228,"y":530,"w":71,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":9,"w":71,"h":75},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_16.png",
+	"frame": {"x":329,"y":530,"w":71,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":9,"w":71,"h":75},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_17.png",
+	"frame": {"x":430,"y":530,"w":70,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":9,"w":70,"h":76},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_18.png",
+	"frame": {"x":530,"y":530,"w":70,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":76},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_19.png",
+	"frame": {"x":630,"y":530,"w":70,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":77},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_1_Intro_20.png",
+	"frame": {"x":228,"y":635,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_00.png",
+	"frame": {"x":328,"y":635,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_01.png",
+	"frame": {"x":428,"y":636,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_02.png",
+	"frame": {"x":632,"y":798,"w":70,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":79},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_03.png",
+	"frame": {"x":30,"y":850,"w":70,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":79},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_04.png",
+	"frame": {"x":130,"y":851,"w":70,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":79},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_05.png",
+	"frame": {"x":330,"y":852,"w":70,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":80},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_06.png",
+	"frame": {"x":230,"y":851,"w":70,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":79},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_07.png",
+	"frame": {"x":528,"y":636,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":10,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_08.png",
+	"frame": {"x":628,"y":637,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":10,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_09.png",
+	"frame": {"x":30,"y":742,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":10,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_10.png",
+	"frame": {"x":130,"y":743,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_11.png",
+	"frame": {"x":230,"y":743,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_12.png",
+	"frame": {"x":330,"y":744,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_2_Loop_13.png",
+	"frame": {"x":430,"y":744,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":70,"h":78},
+	"sourceSize": {"w":105,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_00.png",
+	"frame": {"x":218,"y":30,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_01.png",
+	"frame": {"x":318,"y":30,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_02.png",
+	"frame": {"x":418,"y":30,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_03.png",
+	"frame": {"x":518,"y":30,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_04.png",
+	"frame": {"x":618,"y":30,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_05.png",
+	"frame": {"x":718,"y":30,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_06.png",
+	"frame": {"x":123,"y":130,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_07.png",
+	"frame": {"x":223,"y":130,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_08.png",
+	"frame": {"x":323,"y":130,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_09.png",
+	"frame": {"x":423,"y":130,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_10.png",
+	"frame": {"x":523,"y":130,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_11.png",
+	"frame": {"x":623,"y":130,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_12.png",
+	"frame": {"x":723,"y":130,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_13.png",
+	"frame": {"x":30,"y":230,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_14.png",
+	"frame": {"x":130,"y":230,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_15.png",
+	"frame": {"x":230,"y":230,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_16.png",
+	"frame": {"x":330,"y":230,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_17.png",
+	"frame": {"x":430,"y":230,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_18.png",
+	"frame": {"x":530,"y":230,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_19.png",
+	"frame": {"x":630,"y":230,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_1_Intro_20.png",
+	"frame": {"x":30,"y":330,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_00.png",
+	"frame": {"x":130,"y":330,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_01.png",
+	"frame": {"x":230,"y":330,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_02.png",
+	"frame": {"x":330,"y":330,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_03.png",
+	"frame": {"x":430,"y":330,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_04.png",
+	"frame": {"x":530,"y":330,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_05.png",
+	"frame": {"x":630,"y":330,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_06.png",
+	"frame": {"x":30,"y":430,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_07.png",
+	"frame": {"x":130,"y":430,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_08.png",
+	"frame": {"x":230,"y":430,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_09.png",
+	"frame": {"x":330,"y":430,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_10.png",
+	"frame": {"x":430,"y":430,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_11.png",
+	"frame": {"x":530,"y":430,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_12.png",
+	"frame": {"x":630,"y":430,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Symbol_Chef_Base_2_Loop_13.png",
+	"frame": {"x":30,"y":530,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chefAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":826,"h":1021},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:e5fa0fbbe62be7658bf1c9fc65507dd6:5e099bdda0f0c05a73c56216ed0a5ff2:90e4e088b7fe30cd740c3df462865541$"
+}
+}
