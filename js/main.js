@@ -1,7 +1,7 @@
 /**
  * Created by mgasca on 05/02/15.
  */
-var Main = (function($, createjs){
+var MAIN = (function($, createjs){
 
     var texture = {
         "images": ["assets/symbols.png"],
@@ -51,7 +51,7 @@ var Main = (function($, createjs){
         circle.graphics.beginFill("red").drawCircle(100, 10, 100);
         circle.y = 100;
         this.stage.addChild(circle);
-
+        debugger;
         this.symbol = new createjs.Sprite(this.atlas);
         this.symbol.gotoAndStop('symbol__0000s_0000s_0000_hive');
         this.stage.addChild(this.symbol);
@@ -61,7 +61,7 @@ var Main = (function($, createjs){
         if (this.symbol.y > 696 ) this.symbol.y = 0;
         this.symbol.y = this.symbol.y + this.speed;
 
-        this.stage.update(event);
+        //this.stage.update(event);
     };
 
     return {

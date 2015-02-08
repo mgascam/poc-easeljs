@@ -19,10 +19,28 @@
 <script src="https://code.createjs.com/easeljs-0.8.0.min.js"></script>
 <script src="https://code.createjs.com/tweenjs-0.6.0.min.js"></script>
 <script src="js/main.js"></script>
+<script src="js/Model.js"></script>
+<script src="js/Entity.js"></script>
+<script src="js/Symbol.js"></script>
+<script src="js/ReelsContainer.js"></script>
+
 <script type="text/javascript">
     var canvas = 'canvas';
-    var mygame = new Main.Game(canvas);
+    var mygame = new MAIN.Game(canvas);
     mygame.init();
+
+    var myEntity = new ENTITY.EntityClass(10,10,10,10,'sprite');
+
+    console.log(myEntity);
+
+    var mySymbol = new SYMBOL.SymbolClass(100,100,100,100,'sprite2');
+    mySymbol.draw();
+
+    console.log(mySymbol);
+
+    var reel = new ReelsContainer.Reel();
+
+
 
 
 </script>
