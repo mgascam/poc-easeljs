@@ -7,24 +7,31 @@
  */
 
 
-var SYMBOL = (function (e) {
+var SYMBOL = (function (cjs) {
 
-    var SymbolClass = function(posX, posY, width, height, spriteName){
-        e.EntityClass.call(this, posX, posY, width, height, spriteName)
+    //var SymbolClass = function(posX, posY, width, height, spriteName){
+    //    e.EntityClass.call(this, posX, posY, width, height, spriteName)
+    //};
+    //
+    //SymbolClass.prototype = Object.create(e.EntityClass.prototype);
+    //SymbolClass.prototype.constructor = SymbolClass;
+    //
+    //SymbolClass.prototype.draw = function() {
+    //    console.log('Symbol Draw');
+    //};
+    //SymbolClass.prototype.update = function() {
+    //    console.log('Symbol Update');
+    //};
+
+    function Symbol(spriteSheet){
+        this.Sprite_constructor(spriteSheet);
     };
 
-    SymbolClass.prototype = Object.create(e.EntityClass.prototype);
-    SymbolClass.prototype.constructor = SymbolClass;
+    var p = cjs.extend(Symbol, cjs.Sprite);
 
-    SymbolClass.prototype.draw = function() {
-        console.log('Symbol Draw');
-    };
-    SymbolClass.prototype.update = function() {
-        console.log('Symbol Update');
-    };
-
+    window.Symbol = cjs.promote(Symbol, 'Sprite')
 
     return {
-        SymbolClass: SymbolClass
+        Symbol: Symbol
     }
-})(ENTITY);
+})(createjs);

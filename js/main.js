@@ -1,7 +1,7 @@
 /**
  * Created by mgasca on 05/02/15.
  */
-var MAIN = (function($, createjs){
+var MAIN = (function($, createjs, m, r){
 
     var texture = {
         "images": ["assets/symbols.png"],
@@ -22,18 +22,18 @@ var MAIN = (function($, createjs){
         ],
         "animations": {
 
-            "symbol__0000s_0000s_0000_hive":[0],
-            "symbol__0000s_0001_Queenbee":[1],
-            "symbol__0000s_0001s_0000_Bee":[2],
-            "symbol__0000s_0002_Honey":[3],
-            "symbol__0000s_0003_Sunflower":[4],
-            "symbol__0000s_0004_Ladybug":[5],
-            "symbol__0000s_0005_A":[6],
-            "symbol__0000s_0006_K":[7],
-            "symbol__0000s_0007_Q":[8],
-            "symbol__0000s_0008_J":[9],
-            "symbol__0000s_0009_10":[10],
-            "symbol__0000s_0010_9":[11]
+            "hive":[0],
+            "queenbee":[1],
+            "bee":[2],
+            "honey":[3],
+            "sunflower":[4],
+            "ladybug":[5],
+            "A":[6],
+            "K":[7],
+            "Q":[8],
+            "J":[9],
+            "10":[10],
+            "9":[11]
         }
     };
 
@@ -47,25 +47,19 @@ var MAIN = (function($, createjs){
     };
 
     Game.prototype.init = function() {
-        var circle = new createjs.Shape();
-        circle.graphics.beginFill("red").drawCircle(100, 10, 100);
-        circle.y = 100;
-        this.stage.addChild(circle);
-        debugger;
-        this.symbol = new createjs.Sprite(this.atlas);
-        this.symbol.gotoAndStop('symbol__0000s_0000s_0000_hive');
-        this.stage.addChild(this.symbol);
+        this.reelsContainer = new r.ReelsContainer(m.Model.reel_configs,{},this.atlas, this.stage);
+
     };
 
     Game.prototype.update = function() {
-        if (this.symbol.y > 696 ) this.symbol.y = 0;
-        this.symbol.y = this.symbol.y + this.speed;
+        //if (this.symbol.y > 696 ) this.symbol.y = 0;
+        //this.symbol.y = this.symbol.y + this.speed;
 
-        //this.stage.update(event);
+        this.stage.update(event);
     };
 
     return {
         Game: Game
     };
 
-}(jQuery, createjs));
+}(jQuery, createjs, MODEL, REELS));
